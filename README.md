@@ -8,7 +8,7 @@ A professional e-commerce analytics dashboard with interactive charts, real-time
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
-###[live preview](https://zingy-souffle-e8e94c.netlify.app/)
+[live preview](https://zingy-souffle-e8e94c.netlify.app/)
 
 ## ✨ Features
 
